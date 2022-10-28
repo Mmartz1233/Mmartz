@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\bin\Debug\TomaDeDesiciones.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\bin\Debug\TomaDeDesiciones.exe
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\bin\Debug\TomaDeDesiciones.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\obj\Debug\TomaDeDesiciones.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\obj\Debug\TomaDeDesiciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\obj\Debug\TomaDeDesiciones.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\obj\Debug\TomaDeDesiciones.exe
+C:\Users\admin\Documents\GitHub\Mmartz\TomaDeDesiciones\TomaDeDesiciones\obj\Debug\TomaDeDesiciones.pdb
