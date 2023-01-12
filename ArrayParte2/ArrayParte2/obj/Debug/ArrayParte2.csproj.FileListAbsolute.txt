@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\bin\Debug\ArrayParte2.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\bin\Debug\ArrayParte2.exe
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\bin\Debug\ArrayParte2.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\obj\Debug\ArrayParte2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\obj\Debug\ArrayParte2.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\obj\Debug\ArrayParte2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\obj\Debug\ArrayParte2.exe
+C:\Users\admin\Documents\GitHub\Mmartz\ArrayParte2\ArrayParte2\obj\Debug\ArrayParte2.pdb
