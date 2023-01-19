@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\bin\Debug\Depuracion.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\bin\Debug\Depuracion.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\bin\Debug\Depuracion.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\obj\Debug\Depuracion.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\obj\Debug\Depuracion.pdb

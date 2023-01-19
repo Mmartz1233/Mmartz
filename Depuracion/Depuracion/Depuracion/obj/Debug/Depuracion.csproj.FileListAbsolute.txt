@@ -1,0 +1,15 @@
+C:\Users\Win10\source\repos\Depuracion\Depuracion\bin\Debug\Depuracion.exe.config
+C:\Users\Win10\source\repos\Depuracion\Depuracion\bin\Debug\Depuracion.exe
+C:\Users\Win10\source\repos\Depuracion\Depuracion\bin\Debug\Depuracion.pdb
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.csprojAssemblyReference.cache
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.CoreCompileInputs.cache
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.exe
+C:\Users\Win10\source\repos\Depuracion\Depuracion\obj\Debug\Depuracion.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\bin\Debug\Depuracion.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\bin\Debug\Depuracion.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\bin\Debug\Depuracion.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\obj\Debug\Depuracion.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\obj\Debug\Depuracion.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Depuracion\Depuracion\Depuracion\obj\Debug\Depuracion.pdb
