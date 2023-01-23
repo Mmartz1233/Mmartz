@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Interfaz\Interfaz\obj\Debug\Interfaz.pdb

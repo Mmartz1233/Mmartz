@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\obj\Debug\Herencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\admin\Documents\GitHub\Mmartz\Herencia\Herencia\obj\Debug\Herencia.pdb
