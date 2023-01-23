@@ -11,6 +11,7 @@ namespace Herencia
     {
         protected bool reproducir = false;
         protected int duracionactual = 0;
+        //Proporciona un mecanismo para ejecutar un metodo en un subproceso de un gpo de subprocesos en intervalos especificados.
         Timer Reloj;
         public double Duracion { get; set; }
         public string UrlVideo { get; set; }
@@ -59,6 +60,7 @@ namespace Herencia
             {
                 duracionactual++;
                 Console.WriteLine("Video en {0}", duracionactual);
+                //Controla el recolector de elementos no utilizados del sistema, recupera en forma automatica la memoria que no se utiliza.
                 GC.Collect();//LIMpia el desorden de los timer
             }
             else
