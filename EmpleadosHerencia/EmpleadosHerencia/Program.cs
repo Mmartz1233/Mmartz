@@ -13,7 +13,7 @@ namespace EmpleadosHerencia
             Jefe jefe = new Jefe("Mayra", "Martinez", "Audi", 1500);
             Console.WriteLine(jefe.ToString());
             jefe.Dirigir();
-            Pasante pasante = new Pasante("Pasante", "Castillo", 10, 5);
+            Pasante pasante = new Pasante("Pasante", "Castillo", 10, 5, 2500);
             Console.WriteLine(pasante.ToString());
             pasante.Trabajar();
             pasante.Descansar();
