@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\obj\Debug\TATETI.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\obj\Debug\TATETI.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\obj\Debug\TATETI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\bin\Debug\TATETI.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\bin\Debug\TATETI.exe
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\bin\Debug\TATETI.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\obj\Debug\TATETI.exe
+C:\Users\admin\Documents\GitHub\Mmartz\TATETI\TATETI\obj\Debug\TATETI.pdb
