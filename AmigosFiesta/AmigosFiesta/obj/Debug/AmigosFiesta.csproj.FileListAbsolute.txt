@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\bin\Debug\AmigosFiesta.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\bin\Debug\AmigosFiesta.exe
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\bin\Debug\AmigosFiesta.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\obj\Debug\AmigosFiesta.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\obj\Debug\AmigosFiesta.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\obj\Debug\AmigosFiesta.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\obj\Debug\AmigosFiesta.exe
+C:\Users\admin\Documents\GitHub\Mmartz\AmigosFiesta\AmigosFiesta\obj\Debug\AmigosFiesta.pdb
