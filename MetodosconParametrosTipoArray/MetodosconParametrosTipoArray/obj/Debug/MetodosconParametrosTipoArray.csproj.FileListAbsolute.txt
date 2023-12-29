@@ -1,0 +1,8 @@
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\bin\Debug\MetodosconParametrosTipoArray.exe.config
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\bin\Debug\MetodosconParametrosTipoArray.exe
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\bin\Debug\MetodosconParametrosTipoArray.pdb
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\obj\Debug\MetodosconParametrosTipoArray.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\obj\Debug\MetodosconParametrosTipoArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\obj\Debug\MetodosconParametrosTipoArray.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\obj\Debug\MetodosconParametrosTipoArray.exe
+C:\Users\admin\Documents\GitHub\Mmartz\MetodosconParametrosTipoArray\MetodosconParametrosTipoArray\obj\Debug\MetodosconParametrosTipoArray.pdb
